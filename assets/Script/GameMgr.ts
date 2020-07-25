@@ -18,7 +18,7 @@ export default class NewClass extends cc.Component {
 
     start () {
 
-		cc.log("测试git 提交一行新内容222")
+		cc.log("测试git 提交一行新内容333")
 
         var obj = new Object();
         
