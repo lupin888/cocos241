@@ -18,6 +18,8 @@ export default class NewClass extends cc.Component {
 
     start () {
 
+		cc.log("测试git 提交一行新内容")
+
         var obj = new Object();
         
         // const result = this.lbClick().then((data) => {
